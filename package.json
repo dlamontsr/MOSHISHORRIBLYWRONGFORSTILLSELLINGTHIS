@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dlamontsr/MOSHISHORRIBLYWRONGFORSTILLSELLINGTHIS/issues"
   },
-  "homepage": "https://github.com/dlamontsr/MOSHISHORRIBLYWRONGFORSTILLSELLINGTHIS#readme"
+  "homepage": "https://github.com/dlamontsr/MOSHISHORRIBLYWRONGFORSTILLSELLINGTHIS#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
